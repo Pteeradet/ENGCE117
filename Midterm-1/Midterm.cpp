@@ -1,5 +1,5 @@
 //ธีรเดช ประเสรืฐวงศ์พนา 65543206016-9 SEC 2 
-//
+//https://youtu.be/WsTvjQYZor0
 
 #include <stdio.h>
 #include <string.h>
